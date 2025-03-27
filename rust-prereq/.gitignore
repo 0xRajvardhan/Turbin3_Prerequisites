@@ -4,3 +4,4 @@
 **/*.rs.bk
 /.cargo/
 /target
+/turbin-wallet.json
